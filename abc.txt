@@ -1,3 +1,4 @@
 Testing the pull for git.
 
 testing push
+Testing merge
